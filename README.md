@@ -1,4 +1,4 @@
-# The Movie Manager App
+# <img src="https://github.com/mixemer/Mooskine-app/blob/master/images/logo.png" width="70"> Mooskine App
 ## 
 
 ### What Used?
@@ -16,6 +16,6 @@ Welcome Page                 |2                               | 3
 
 
 
-1                            |  2                             | 3
+4                            |  5                             | 6
 :---------------------------:|:------------------------------:|:------------------------------:
 ![](images/4.png)            |  ![](images/5.png)             | ![](images/1.png)
